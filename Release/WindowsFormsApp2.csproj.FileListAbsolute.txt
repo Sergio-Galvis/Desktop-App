@@ -1,0 +1,21 @@
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Javier Alejandro\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form_act_eds.resources
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Asistente CES.exe.config
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Asistente CES.exe
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Asistente CES.pdb
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Asistente_CES.Properties.Resources.resources
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Asistente CES.exe
+C:\Users\Sergio Galvis\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Asistente CES.pdb
