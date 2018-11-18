@@ -1,5 +1,5 @@
 # Desktop-App
-Desktop application for Terpel Colombia.
+Desktop application project developed in Terpel Colombia.
 
 ## Built With
 
