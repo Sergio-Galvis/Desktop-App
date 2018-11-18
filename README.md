@@ -6,7 +6,6 @@ Desktop application for Terpel Colombia.
 * [Visual Studio](https://visualstudio.microsoft.com/es/) - Code Editor.
 * [.Net](https://www.microsoft.com/net) - Principal language with C#.
 
-
 ## Authors
 
 * **Sergio Galvis** - *.Net Developer*
